@@ -13,7 +13,7 @@
 <td align="center" colspan="3">
 
 <a href="https://1drv.ms/x/your-link-here">
-<img src="https://img.icons8.com/ios-filled/96/7B4AB8/database.png" width="55">
+<h1>📊</h1>
 </a>
 
 <br>
@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 
 <a href="./Estado">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>📚</h1>
 </a>
 
 <br>
@@ -44,7 +44,7 @@
 <td align="center" width="33%">
 
 <a href="./Arquitectura-Diseño">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🏗️</h1>
 </a>
 
 <br>
@@ -56,7 +56,7 @@
 <td align="center" width="33%">
 
 <a href="./Electronica-Hardware">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>⚙️</h1>
 </a>
 
 <br>
@@ -72,7 +72,7 @@
 <td align="center">
 
 <a href="./Percepcion-Sensado">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>👁️</h1>
 </a>
 
 <br>
@@ -84,7 +84,7 @@
 <td align="center">
 
 <a href="./Movilidad-Locomocion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🚗</h1>
 </a>
 
 <br>
@@ -96,7 +96,7 @@
 <td align="center">
 
 <a href="./Mecanismos-Actuacion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🦾</h1>
 </a>
 
 <br>
@@ -112,7 +112,7 @@
 <td align="center">
 
 <a href="./Control-Automatizacion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🎮</h1>
 </a>
 
 <br>
@@ -124,7 +124,7 @@
 <td align="center">
 
 <a href="./Interaccion-Humano-Robot">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🤝</h1>
 </a>
 
 <br>
@@ -136,7 +136,7 @@
 <td align="center">
 
 <a href="./Aplicaciones-Asistenciales">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🏥</h1>
 </a>
 
 <br>
@@ -152,7 +152,7 @@
 <td align="center" colspan="3">
 
 <a href="./Referencias-Complementarias">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<h1>🔗</h1>
 </a>
 
 <br>
@@ -200,11 +200,11 @@ que orientan su desarrollo.
 <h3>Concepto del robot</h3>
 
 <p>
-El proyecto corresponde al diseño de un robot móvil asistencial médico con capacidades avanzadas en interacción humano-robot, movilidad autónoma y aplicaciones asistenciales. La propuesta busca integrar en una misma plataforma sistemas de asistencia clínica, percepción, navegación, interacción humano-robot y atención ante situaciones de emergencia.
+El proyecto corresponde al diseño de un robot móvil asistencial médico con capacidades avanzadas en interacción humano-robot, movilidad autónoma y aplicaciones asistenciales. La propuesta busca i[...]
 </p>
 
 <p>
-El diseño parte de la necesidad de crear una solución integral que pueda adaptarse a diferentes contextos de uso en entornos médicos. La investigación realizada permitió organizar los requerimientos en múltiples áreas tecnológicas que trabajan de manera coordinada.
+El diseño parte de la necesidad de crear una solución integral que pueda adaptarse a diferentes contextos de uso en entornos médicos. La investigación realizada permitió organizar los requerimien[...]
 </p>
 
 <p>
@@ -233,7 +233,7 @@ Esta organización permite desarrollar el robot por sistemas independientes y fa
 <h3>Distribución general</h3>
 
 <p>
-La arquitectura propuesta se divide en varios sistemas que trabajan sobre una plataforma móvil integrada. La estructura contempla diferentes módulos especializados, sistemas electrónicos y de percepción que se comunican entre sí de manera coordinada.
+La arquitectura propuesta se divide en varios sistemas que trabajan sobre una plataforma móvil integrada. La estructura contempla diferentes módulos especializados, sistemas electrónicos y de perce[...]
 </p>
 
 <table>
@@ -283,7 +283,7 @@ Pantalla, comunicación, proximidad al paciente y sistemas de feedback.
 <br>
 
 <p>
-El concepto de diseño modular permite modificar o desarrollar cada sistema sin tener que rediseñar completamente la plataforma. Esta estrategia también permite que los diferentes subsistemas sean integrados progresivamente durante el desarrollo.
+El concepto de diseño modular permite modificar o desarrollar cada sistema sin tener que rediseñar completamente la plataforma. Esta estrategia también permite que los diferentes subsistemas sean i[...]
 </p>
 
 </td>
@@ -411,7 +411,7 @@ Detección de situaciones críticas y protocolos de respuesta de emergencia.
 <h3>Sistemas de sensores</h3>
 
 <p>
-Los requerimientos del proyecto contemplan diferentes niveles de percepción, desde la medición de variables fisiológicas hasta la detección del entorno. Los sensores se organizan en cuatro categorías principales:
+Los requerimientos del proyecto contemplan diferentes niveles de percepción, desde la medición de variables fisiológicas hasta la detección del entorno. Los sensores se organizan en cuatro categor[...]
 </p>
 
 <table>
@@ -479,7 +479,7 @@ Cámara, micrófono, pantalla y sistemas que permitan comunicación natural huma
 <h3>Interacción humano-robot</h3>
 
 <p>
-Entre las funciones planteadas se encuentran la conversación con el paciente, comunicación en diferentes idiomas, videollamada, generación de reportes, pantalla táctil de interacción y comunicación con centros médicos.
+Entre las funciones planteadas se encuentran la conversación con el paciente, comunicación en diferentes idiomas, videollamada, generación de reportes, pantalla táctil de interacción y comunicaci[...]
 </p>
 
 <p>
