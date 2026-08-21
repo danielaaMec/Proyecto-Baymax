@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 
 <a href="./Estado-del-Arte">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -44,7 +44,7 @@
 <td align="center" width="33%">
 
 <a href="./Arquitectura-Diseño">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
