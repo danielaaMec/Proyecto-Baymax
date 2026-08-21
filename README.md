@@ -13,7 +13,7 @@
 <td align="center" colspan="3">
 
 <a href="https://1drv.ms/x/your-link-here">
-<h1>📊</h1>
+<img src="https://img.icons8.com/ios-filled/96/7B4AB8/database.png" width="55">
 </a>
 
 <br>
@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 
 <a href="./Estado">
-<h1>📚</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
 </a>
 
 <br>
@@ -44,7 +44,7 @@
 <td align="center" width="33%">
 
 <a href="./Arquitectura-Diseño">
-<h1>🏗️</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
 </a>
 
 <br>
@@ -56,7 +56,7 @@
 <td align="center" width="33%">
 
 <a href="./Electronica-Hardware">
-<h1>⚙️</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -72,7 +72,7 @@
 <td align="center">
 
 <a href="./Percepcion-Sensado">
-<h1>👁️</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -84,7 +84,7 @@
 <td align="center">
 
 <a href="./Movilidad-Locomocion">
-<h1>🚗</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -96,7 +96,7 @@
 <td align="center">
 
 <a href="./Mecanismos-Actuacion">
-<h1>🦾</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -112,7 +112,7 @@
 <td align="center">
 
 <a href="./Control-Automatizacion">
-<h1>🎮</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -124,7 +124,7 @@
 <td align="center">
 
 <a href="./Interaccion-Humano-Robot">
-<h1>🤝</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -136,7 +136,7 @@
 <td align="center">
 
 <a href="./Aplicaciones-Asistenciales">
-<h1>🏥</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -152,7 +152,7 @@
 <td align="center" colspan="3">
 
 <a href="./Referencias-Complementarias">
-<h1>🔗</h1>
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
 <br>
