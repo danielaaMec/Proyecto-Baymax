@@ -23,34 +23,6 @@
 </td>
 </tr>
 
-<details>
-<summary> Cómo usar esta sección / How to use this section </summary>
-
-<br>
-
-**Español**
-: Esta sección organiza la investigación y documentación recopilada durante el desarrollo del proyecto.
-
--  **Navegación:** pulsa sobre el ícono de la carpeta para acceder directamente a su contenido.
--  **Matriz Principal de Investigación:** contiene el registro general de los artículos, referencias, aportes y ubicación de cada documento.
--  **Carpetas de investigación:** cada carpeta agrupa artículos según el aporte principal que realizan al proyecto.
--  **Clasificación:** los artículos se organizan según su aporte principal al proyecto y no únicamente por el tema general del artículo.
-
-> La carpeta **Referencias Complementarias** contiene documentos que aportan información útil, pero que no pertenecen directamente a otra línea de investigación.
-
----
-
-**English**
-: This section organizes the research and documentation collected throughout the project.
-
-- **Navigation:** click on the folder icon to access its corresponding research folder.
-- **Main Research Matrix:** contains the general record of the articles, references, contributions and location of each document.
-- **Folder matrix:** each folder includes an Excel file used to analyze and summarize the articles stored there.
-- **Classification:** articles are organized according to their main contribution to the project, not only by the general topic of the article.
-
-> The **References Complementary** folder contains documents that provide useful information but do not fit directly into another research line.
-
----
 
 </details>
 
@@ -59,7 +31,7 @@
 <td align="center" width="33%">
 
 <a href="./Estado-del-Arte">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
 </a>
 
 <br>
@@ -72,7 +44,7 @@
 <td align="center" width="33%">
 
 <a href="./Arquitectura-Diseño">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
 </a>
 
 <br>
