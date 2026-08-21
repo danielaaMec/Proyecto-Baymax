@@ -1,292 +1,634 @@
-# 🤖 Proyecto Baymax
-## Semillero Tesla - Robot de Asistencia Médica
+<div align="center">
+    <img src="https://raw.githubusercontent.com/danielaaMec/Proyecto-Baymax/main/logo.png"
+         alt="Proyecto Baymax"
+         width="100%">
+</div>
+<br>
+<br>
+<br>
 
-Proyecto de investigación para desarrollar un robot de asistencia médica integral con capacidades avanzadas en interacción humano-robot, movilidad autónoma y aplicaciones asistenciales.
+<table>
+<tr>
+    
+<td align="center" colspan="3">
+
+<a href="https://1drv.ms/x/your-link-here">
+<img src="https://img.icons8.com/ios-filled/96/7B4AB8/database.png" width="55">
+</a>
+
+<br>
+<b>Matriz Principal de Investigación</b>
+<br>
+<sub>Registro general de artículos, referencias, aportes y ubicación de cada documento.</sub>
+</td>
+</tr>
+
+<details>
+<summary> Cómo usar esta sección / How to use this section </summary>
+
+<br>
+
+**Español**
+: Esta sección organiza la investigación y documentación recopilada durante el desarrollo del proyecto.
+
+-  **Navegación:** pulsa sobre el ícono de la carpeta para acceder directamente a su contenido.
+-  **Matriz Principal de Investigación:** contiene el registro general de los artículos, referencias, aportes y ubicación de cada documento.
+-  **Carpetas de investigación:** cada carpeta agrupa artículos según el aporte principal que realizan al proyecto.
+-  **Clasificación:** los artículos se organizan según su aporte principal al proyecto y no únicamente por el tema general del artículo.
+
+> La carpeta **Referencias Complementarias** contiene documentos que aportan información útil, pero que no pertenecen directamente a otra línea de investigación.
 
 ---
 
-## 📑 Contenido del Proyecto
+**English**
+: This section organizes the research and documentation collected throughout the project.
 
-<details>
-<summary>📚 <b>Estado del Arte</b></summary>
+- **Navigation:** click on the folder icon to access its corresponding research folder.
+- **Main Research Matrix:** contains the general record of the articles, references, contributions and location of each document.
+- **Folder matrix:** each folder includes an Excel file used to analyze and summarize the articles stored there.
+- **Classification:** articles are organized according to their main contribution to the project, not only by the general topic of the article.
 
-### Estado del Arte
+> The **References Complementary** folder contains documents that provide useful information but do not fit directly into another research line.
 
-Análisis y revisión del estado actual de la tecnología en robots asistenciales médicos:
-
-- Revisión de proyectos similares y su evolución
-- Tecnologías emergentes en robótica médica
-- Estándares internacionales de seguridad
-- Benchmarking de soluciones existentes
-- Oportunidades y gaps tecnológicos identificados
-
-*Agregar información detallada aquí*
+---
 
 </details>
 
----
+<tr>
 
-<details>
-<summary>🏗️ <b>Arquitectura y Diseño</b></summary>
+<td align="center" width="33%">
 
-### Arquitectura y Diseño
+<a href="./Estado-del-Arte">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-Estructura, configuración y diseño general del sistema:
+<br>
+<b>Estado del Arte</b>
+<br>
+<sub>Antecedentes relacionados con el proyecto.</sub>
 
-- **Diagrama de arquitectura general**
-- Módulos principales del sistema
-- Interfaces entre componentes
-- Patrones de diseño implementados
-- Especificaciones técnicas generales
-- Documentación de decisiones de diseño
+</td>
 
-*Agregar información detallada aquí*
+<td align="center" width="33%">
 
-</details>
+<a href="./Arquitectura-Diseño">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
----
+<br>
+<b>Arquitectura y Diseño</b>
+<br>
+<sub>Estructura, configuración y diseño general del sistema.</sub>
+</td>
 
-<details>
-<summary>⚡ <b>Electrónica y Hardware</b></summary>
+<td align="center" width="33%">
 
-### Electrónica y Hardware
+<a href="./Electronica-Hardware">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-Circuitos, componentes, electrónica y procesamiento:
+<br>
+<b>Electrónica y Hardware</b>
+<br>
+<sub>Circuitos, componentes, electrónica y procesamiento.</sub>
+</td>
 
-- **Unidad de procesamiento principal**
-  - Procesador/Microcontrolador
-  - Memoria (RAM, almacenamiento)
-  - Tarjetas de expansión
+</tr>
 
-- **Sensórica**
-  - Sensores de visión (cámaras)
-  - Sensores de proximidad
-  - Sensores inerciales (IMU)
-  - Otros sensores especializados
+<tr>
 
-- **Accionamientos**
-  - Motores DC/servos
-  - Drivers de motor
-  - Fuentes de alimentación
+<td align="center">
 
-- **Circuitos de control**
-  - Esquemáticos
-  - PCB diseñadas
-  - Protecciones eléctricas
+<a href="./Percepcion-Sensado">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-- **Especificaciones técnicas**
-  - Consumo de potencia
-  - Voltajes y corrientes
-  - Tolerancias y márgenes
+<br>
+<b>Percepción y Sensado</b>
+<br>
+<sub>Sensores, adquisición de datos y percepción del entorno.</sub>
+</td>
 
-*Agregar información detallada aquí*
+<td align="center">
 
-</details>
+<a href="./Movilidad-Locomocion">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
----
+<br>
+<b>Movilidad y Locomoción</b>
+<br>
+<sub>Desplazamiento, navegación y sistemas de movilidad.</sub>
+</td>
 
-<details>
-<summary>🚀 <b>Movilidad y Locomoción</b></summary>
+<td align="center">
 
-### Movilidad y Locomoción
+<a href="./Mecanismos-Actuacion">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-Desplazamiento, navegación y sistemas de movilidad:
+<br>
+<b>Mecanismos y Actuación</b>
+<br>
+<sub>Mecanismos, actuadores y sistemas de movimiento.</sub>
+</td>
 
-- **Sistemas de movimiento**
-  - Tipo de locomoción (ruedas, patas, híbrido)
-  - Cinemática del movimiento
-  - Dinámica y análisis de fuerzas
+</tr>
 
-- **Navegación autónoma**
-  - Mapeo (SLAM)
-  - Localización
-  - Planificación de trayectorias
-  - Evitación de obstáculos
+<tr>
 
-- **Sensórica de movilidad**
-  - Encoders
-  - Sensores de piso
-  - Baterías y autonomía
+<td align="center">
 
-- **Rendimiento**
-  - Velocidad máxima
-  - Capacidad de carga
-  - Tiempo de autonomía
-  - Terrenos soportados
+<a href="./Control-Automatizacion">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-*Agregar información detallada aquí*
+<br>
+<b>Control y Automatización</b>
+<br>
+<sub>Control, programación y automatización del sistema.</sub>
+</td>
 
-</details>
+<td align="center">
 
----
+<a href="./Interaccion-Humano-Robot">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-<details>
-<summary>🔧 <b>Mecanismos y Actuación</b></summary>
+<br>
+<b>Interacción Humano-Robot</b>
+<br>
+<sub>Comunicación e interacción entre el usuario y el robot.</sub>
+</td>
 
-### Mecanismos y Actuación
+<td align="center">
 
-Mecanismos, actuadores y sistemas de movimiento:
+<a href="./Aplicaciones-Asistenciales">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-- **Sistema de brazos/manipuladores**
-  - Grados de libertad (DOF)
-  - Cinemática y dinámica
-  - Rangos de movimiento
-  - Precisión y repetibilidad
+<br>
+<b>Aplicaciones Asistenciales</b>
+<br>
+<sub>Necesidades, aplicaciones y contextos de asistencia.</sub>
+</td>
 
-- **Articulaciones y transmisión**
-  - Tipos de articulaciones
-  - Reductores y transmisión
-  - Materiales utilizados
-
-- **Actuadores**
-  - Motores paso a paso
-  - Servomotores
-  - Actuadores lineales
-  - Gripper/pinza
+</tr>
 
-- **Análisis mecánico**
-  - Simulaciones FEM
-  - Análisis de resistencia
-  - Fatiga y durabilidad
+<tr>
 
-- **Especificaciones de movimiento**
-  - Torque máximo
-  - Velocidad de articulaciones
-  - Carrera útil
+<td align="center" colspan="3">
 
-*Agregar información detallada aquí*
+<a href="./Referencias-Complementarias">
+<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+</a>
 
-</details>
+<br>
+<b>Referencias Complementarias</b>
+<br>
+<sub>Información relacionada que aporta al proyecto sin pertenecer directamente a otra línea.</sub>
+</td>
 
----
+</tr>
 
-<details>
-<summary>🎮 <b>Control y Automatización</b></summary>
+</table>
 
-### Control y Automatización
+<br>
+<hr>
+<br>
 
-Control, programación y automatización del sistema:
+<div align="center">
 
-- **Sistema operativo**
-  - SO embebido/tiempo real
-  - Middleware robótico (ROS, etc.)
-  - Kernel y drivers
+<h2>Diseño del Sistema</h2>
 
-- **Software de control**
-  - Controladores de bajo nivel
-  - Controladores de alto nivel
-  - Máquinas de estado
-  - Algoritmos de control (PID, etc.)
+<sub>
+Presentación del diseño actual del robot y de las principales decisiones
+que orientan su desarrollo.
+</sub>
 
-- **Programación**
-  - Lenguajes utilizados
-  - Librerías principales
-  - Repositorio de código
-  - Documentación de API
+</div>
 
-- **Automatización de tareas**
-  - Rutinas predefinidas
-  - Comportamientos autónomos
-  - Modos de operación
-  - Safety checks
+<br>
+<br>
 
-- **Testing y validación**
-  - Unit tests
-  - Integración de sistemas
-  - Validación en campo
+<table>
 
-*Agregar información detallada aquí*
+<tr>
 
-</details>
+<td colspan="2" align="center">
 
----
+<h2>01 · Concepto General</h2>
 
-<details>
-<summary>👥 <b>Interacción Humano-Robot</b></summary>
+<br>
 
-### Interacción Humano-Robot
+<img src="https://raw.githubusercontent.com/danielaaMec/Proyecto-Baymax/main/concepto.png" width="75%">
 
-Comunicación e interacción entre el usuario y el robot:
+<br><br>
 
-- **Interfaces de usuario**
-  - Pantalla/Display
-  - Controles físicos
-  - Aplicación móvil/web
-  - Interfaz de voz
+<h3>Concepto del robot</h3>
 
-- **Comunicación natural**
-  - Procesamiento de lenguaje natural (NLP)
-  - Síntesis de voz (TTS)
-  - Reconocimiento de voz (STT)
-  - Diálogos e intención
+<p>
+El proyecto corresponde al diseño de un robot móvil asistencial médico con capacidades avanzadas en interacción humano-robot, movilidad autónoma y aplicaciones asistenciales. La propuesta busca integrar en una misma plataforma sistemas de asistencia clínica, percepción, navegación, interacción humano-robot y atención ante situaciones de emergencia.
+</p>
 
-- **Expresión y feedback**
-  - Expresiones faciales (si aplica)
-  - LEDs indicadores
-  - Audio/alarmas
-  - Retroalimentación táctil
+<p>
+El diseño parte de la necesidad de crear una solución integral que pueda adaptarse a diferentes contextos de uso en entornos médicos. La investigación realizada permitió organizar los requerimientos en múltiples áreas tecnológicas que trabajan de manera coordinada.
+</p>
 
-- **Usabilidad**
-  - Curva de aprendizaje
-  - Accesibilidad
-  - Ergonomía
-  - Diseño centrado en usuario
+<p>
+Esta organización permite desarrollar el robot por sistemas independientes y facilita la incorporación progresiva de nuevas funciones, manteniendo la flexibilidad y escalabilidad del proyecto.
+</p>
 
-- **Seguridad en interacción**
-  - Límites de velocidad en cercanía
-  - Detectores de proximidad
-  - Parada de emergencia
-  - Protecciones mecánicas
+</td>
 
-*Agregar información detallada aquí*
+</tr>
 
-</details>
+</table>
 
----
+<br>
+<br>
 
-<details>
-<summary>🏥 <b>Aplicaciones Asistenciales</b></summary>
+<table>
 
-### Aplicaciones Asistenciales
+<tr>
 
-Necesidades, aplicaciones y contextos de asistencia:
+<td colspan="2" align="center">
 
-- **Contextos de uso**
-  - Hospitales y clínicas
-  - Hogares y domicilios
-  - Centros geriátricos
-  - Rehabilitación
+<h2>02 · Arquitectura del Robot</h2>
 
-- **Tareas asistenciales**
-  - Monitoreo de pacientes
-  - Asistencia en movilidad
-  - Entrega de medicamentos
-  - Recordatorios y alertas
-  - Soporte emocional
+<br>
 
-- **Necesidades identificadas**
-  - Requisitos de usuarios finales
-  - Casos de uso prioritarios
-  - Limitaciones y restricciones
-  - Regulaciones y normativas
+<h3>Distribución general</h3>
 
-- **Validación clínica**
-  - Protocolos de prueba
-  - Métricas de éxito
-  - Retroalimentación de usuarios
-  - Casos de estudio
+<p>
+La arquitectura propuesta se divide en varios sistemas que trabajan sobre una plataforma móvil integrada. La estructura contempla diferentes módulos especializados, sistemas electrónicos y de percepción que se comunican entre sí de manera coordinada.
+</p>
 
-- **Impacto esperado**
-  - Mejora de calidad de vida
-  - Reducción de carga laboral
-  - Eficiencia operacional
-  - ROI estimado
+<table>
 
-*Agregar información detallada aquí*
+<tr>
 
-</details>
+<td align="center" width="33%">
 
----
+<b>Módulos de Función</b>
+
+<br><br>
+
+<sub>
+Clínico, emergencia, navegación, brazos, IA y sensores.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Sistemas de Soporte</b>
+
+<br><br>
+
+<sub>
+Electrónica, potencia, procesamiento y comunicación.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Interacción</b>
+
+<br><br>
+
+<sub>
+Pantalla, comunicación, proximidad al paciente y sistemas de feedback.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p>
+El concepto de diseño modular permite modificar o desarrollar cada sistema sin tener que rediseñar completamente la plataforma. Esta estrategia también permite que los diferentes subsistemas sean integrados progresivamente durante el desarrollo.
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+<br>
+
+<table>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<h2>03 · Sistemas Principales</h2>
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<b>Módulo Clínico</b>
+
+<br><br>
+
+<sub>
+Monitoreo de variables fisiológicas y evaluación del estado del paciente.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Módulo de Navegación</b>
+
+<br><br>
+
+<sub>
+Localización, mapeo, planificación de rutas y evitación de obstáculos.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Módulo de IA</b>
+
+<br><br>
+
+<sub>
+Procesamiento de lenguaje natural, toma de decisiones y generación de reportes.
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+<b>Módulo de Actuación</b>
+
+<br><br>
+
+<sub>
+Brazos, mecanismos y sistemas de movimiento para asistencia física.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Módulo de Sensores</b>
+
+<br><br>
+
+<sub>
+Percepción del paciente y del entorno mediante múltiples sensores.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Módulo de Emergencia</b>
+
+<br><br>
+
+<sub>
+Detección de situaciones críticas y protocolos de respuesta de emergencia.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+<br>
+
+<table>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<h2>04 · Percepción e Interacción</h2>
+
+<br>
+
+<h3>Sistemas de sensores</h3>
+
+<p>
+Los requerimientos del proyecto contemplan diferentes niveles de percepción, desde la medición de variables fisiológicas hasta la detección del entorno. Los sensores se organizan en cuatro categorías principales:
+</p>
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<b>Monitoreo Clínico</b>
+
+<br><br>
+
+<sub>
+Temperatura corporal, frecuencia cardíaca, saturación de oxígeno (SpO₂) y presión arterial.
+</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<b>Percepción del Entorno</b>
+
+<br><br>
+
+<sub>
+Sensores de proximidad, detección de obstáculos, sensores ambientales y localización.
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<b>Seguridad</b>
+
+<br><br>
+
+<sub>
+Detección de caídas, identificación de situaciones anormales y alertas de proximidad.
+</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<b>Interacción</b>
+
+<br><br>
+
+<sub>
+Cámara, micrófono, pantalla y sistemas que permitan comunicación natural humano-robot.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<h3>Interacción humano-robot</h3>
+
+<p>
+Entre las funciones planteadas se encuentran la conversación con el paciente, comunicación en diferentes idiomas, videollamada, generación de reportes, pantalla táctil de interacción y comunicación con centros médicos.
+</p>
+
+<p>
+El diseño también considera una interacción natural basada en movimientos suaves, comunicación clara y proximidad adecuada al paciente. El robot debe asistir y no reemplazar al personal de salud.
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+<br>
+
+<table>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<h2>05 · Criterios de Seguridad y Comportamiento</h2>
+
+<br>
+
+<p>
+Debido al enfoque asistencial del proyecto, el comportamiento del robot debe priorizar la seguridad del paciente y la confiabilidad de todos los sistemas.
+</p>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<b>Seguridad Primero</b>
+
+<br><br>
+
+<sub>
+El robot no debe poner en riesgo al paciente durante sus movimientos o tareas.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Asistencia Médica</b>
+
+<br><br>
+
+<sub>
+El robot funciona como sistema de apoyo y no como sustituto del personal de salud.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Redundancia de Sistemas</b>
+
+<br><br>
+
+<sub>
+Si un sensor falla, otro sistema debe poder contribuir a detectar situaciones críticas.
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+<b>Estabilidad Estructural</b>
+
+<br><br>
+
+<sub>
+La plataforma debe conservar el equilibrio durante desplazamientos y operaciones.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Movimientos Suaves</b>
+
+<br><br>
+
+<sub>
+Se deben evitar movimientos bruscos durante la interacción con el paciente.
+</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Interacción Natural</b>
+
+<br><br>
+
+<sub>
+Comunicación clara, respeto del espacio personal y comportamiento predecible.
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+<br>
 
 ## 🚀 Comenzar
 
