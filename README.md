@@ -44,7 +44,8 @@
 <td align="center" width="33%">
 
 <a href="./Arquitectura-Diseño">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
+    
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-estado.png" width="55">
 </a>
 
 <br>
@@ -56,7 +57,7 @@
 <td align="center" width="33%">
 
 <a href="./Electronica-Hardware">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -72,7 +73,7 @@
 <td align="center">
 
 <a href="./Percepcion-Sensado">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -84,7 +85,7 @@
 <td align="center">
 
 <a href="./Movilidad-Locomocion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -96,7 +97,7 @@
 <td align="center">
 
 <a href="./Mecanismos-Actuacion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -112,7 +113,7 @@
 <td align="center">
 
 <a href="./Control-Automatizacion">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -124,7 +125,7 @@
 <td align="center">
 
 <a href="./Interaccion-Humano-Robot">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -136,7 +137,7 @@
 <td align="center">
 
 <a href="./Aplicaciones-Asistenciales">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
@@ -152,7 +153,7 @@
 <td align="center" colspan="3">
 
 <a href="./Referencias-Complementarias">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-folder.png" width="55">
 </a>
 
 <br>
