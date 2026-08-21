@@ -12,9 +12,14 @@
     
 <td align="center" colspan="3">
 
-<a href="https://1drv.ms/x/your-link-here">
-<img src="https://img.icons8.com/ios-filled/96/7B4AB8/database.png" width="55">
+<a href="./Estado">
+<h1>📚</h1>
 </a>
+
+<br>
+<b>Estado del Arte</b>
+<br>
+<sub>Antecedentes relacionados con el proyecto.</sub>
 
 <br>
 <b>Matriz Principal de Investigación</b>
