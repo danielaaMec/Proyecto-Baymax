@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 
 <a href="./Estado">
-<img src="https://img.icons8.com/ios-filled/96/794937/opened-estado.png" width="55">
+<img src="https://img.icons8.com/ios-filled/96/FF6B6B/opened-estado.png" width="55">
 </a>
 
 <br>
