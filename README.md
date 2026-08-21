@@ -30,7 +30,7 @@
 
 <td align="center" width="33%">
 
-<a href="./Estado-del-Arte">
+<a href="./Estado">
 <img src="https://img.icons8.com/ios-filled/96/794937/opened-folder.png" width="55">
 </a>
 
