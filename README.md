@@ -25,8 +25,8 @@
       <a href="./Estado" style="text-decoration: none;">
         <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #FF5733; background-color: #F54927; border-radius: 10px;">
           <h3 style="margin-top: 0; color: #333;">📚🎨🧵 ESTADO DEL ARTE</h3>
-          <p style="color: #666; margin-bottom: 10px;">Investigaciones previas, tendencias y marco teórico.</p>
-          <code style="color: #FF5722;">📂 Ir a la carpeta &rarr;</code>
+          <p style="color: #F54927; margin-bottom: 10px;">Investigaciones previas, tendencias y marco teórico.</p>
+          <code style="color: #F54927;">📂 Ir a la carpeta &rarr;</code>
         </blockquote>
       </a>
     </td>
