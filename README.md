@@ -2,7 +2,7 @@
 
 # 🏥 MEDI-BOT: Robot de Asistencia Médica 🤖
 
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" alt="Robot de Asistencia Médica" width="100%" style="border-radius: 12px;">
+<img src="./Imagenes/" alt="Robot de Asistencia Médica" width="100%" style="border-radius: 12px;">
 
 <p align="center">
   <b>Plataforma robótica autónoma orientada al soporte de pacientes, personal médico y monitoreo de salud.</b>
