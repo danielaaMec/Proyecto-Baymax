@@ -10,9 +10,9 @@
 
 ---
 
-## 🗂️ MATRIZ DE MÓDULOS Y DOCUMENTACIÓN ⚙️
+## 🗂️ MÓDULOS Y DOCUMENTACIÓN ⚙️
 
-*Haz clic sobre la imagen de cualquier carpeta para acceder a sus archivos:*
+*Si podemos generar el cambio:*
 
 </div>
 
