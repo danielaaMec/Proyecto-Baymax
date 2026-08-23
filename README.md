@@ -21,7 +21,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="./https://github.com/danielaaMec/Proyecto-Baymax/tree/1bbf80c2bc7091cb4e2c79f4d14c50e93f1fde5f/Estado">
+      <a href="./Estado">
         <img src="https://img.shields.io/badge/📚🎨_ESTADO_DEL_ARTE-Investigaciones_y_Marco_Teórico-FF5722?style=for-the-badge&logoColor=white" width="100%">
       </a>
       <p><sub>Investigaciones previas, tendencias y marco teórico del proyecto.</sub></p>
