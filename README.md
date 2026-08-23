@@ -2,7 +2,7 @@
 
 # 🏥 MEDI-BOT: Robot de Asistencia Médica 🤖
 
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" alt="Robot de Asistencia Médica" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" alt="Robot de Asistencia Médica" width="100%" style="border-radius: 12px;">
 
 <p align="center">
   <b>Plataforma robótica autónoma orientada al soporte de pacientes, personal médico y monitoreo de salud.</b>
@@ -12,82 +12,56 @@
 
 ## 🗂️ MATRIZ DE MÓDULOS Y DOCUMENTACIÓN ⚙️
 
-*Haz clic en cualquiera de las tarjetas para navegar directamente a la carpeta del módulo correspondiente.*
+*Haz clic sobre la imagen de cualquier carpeta para acceder a sus archivos:*
 
 </div>
 
 <br>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%">
   <tr>
-    <!-- CARPETA 1 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./Estado" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #FF5733; background-color: #F54927; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">📚🎨🧵 ESTADO DEL ARTE</h3>
-          <p style="color: #F54927; margin-bottom: 10px;">Investigaciones previas, tendencias y marco teórico.</p>
-          <code style="color: #F54927;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./estado_del_arte">
+        <img src="https://img.shields.io/badge/📚🎨_ESTADO_DEL_ARTE-Investigaciones_y_Marco_Teórico-FF5722?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Investigaciones previas, tendencias y marco teórico del proyecto.</sub></p>
     </td>
-    <!-- CARPETA 2 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./arquitectura_y_diseño" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #4CAF50; background-color: #f9f9f9; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">🛠️🏗️ ARQUITECTURA Y DISEÑO</h3>
-          <p style="color: #666; margin-bottom: 10px;">Diagramas de flujo, software y estructura general.</p>
-          <code style="color: #4CAF50;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./arquitectura_y_diseño">
+        <img src="https://img.shields.io/badge/🛠️🏗️_ARQUITECTURA_Y_DISEÑO-Diagramas_y_Software-4CAF50?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Diagramas de flujo, arquitectura de software y estructura.</sub></p>
     </td>
   </tr>
   <tr>
-    <!-- CARPETA 3 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./electronica_y_hardware" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #FFC107; background-color: #f9f9f9; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">💡⚡ ELECTRÓNICA Y HARDWARE</h3>
-          <p style="color: #666; margin-bottom: 10px;">Circuitos, sensores, actuadores y componentes.</p>
-          <code style="color: #FFC107;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./electronica_y_hardware">
+        <img src="https://img.shields.io/badge/💡⚡_ELECTRÓNICA_Y_HARDWARE-Circuitos_y_Sensores-FFB300?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Esquemas de circuitos, tarjetas, sensores y actuadores.</sub></p>
     </td>
-    <!-- CARPETA 4 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./movilidad_y_locomocion" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #9C27B0; background-color: #f9f9f9; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">🏃‍♂️⚙️ MOVILIDAD Y LOCOMOCIÓN</h3>
-          <p style="color: #666; margin-bottom: 10px;">Base mecánica, motores y navegación autónoma.</p>
-          <code style="color: #9C27B0;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./movilidad_y_locomocion">
+        <img src="https://img.shields.io/badge/🏃‍♂️⚙️_MOVILIDAD_Y_LOCOMOCIÓN-Navegación_y_Motores-9C27B0?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Base mecánica, control de motores y navegación autónoma.</sub></p>
     </td>
   </tr>
   <tr>
-    <!-- CARPETA 5 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./aplicaciones_asistenciales" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #F44336; background-color: #f9f9f9; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">🏥💊 APLICACIONES ASISTENCIALES</h3>
-          <p style="color: #666; margin-bottom: 10px;">Funciones clínicas, cuidado del paciente y soporte.</p>
-          <code style="color: #F44336;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./aplicaciones_asistenciales">
+        <img src="https://img.shields.io/badge/🏥💊_APLICACIONES_ASISTENCIALES-Funciones_Clínicas-E91E63?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Funciones clínicas, monitoreo de paciente y tareas médicas.</sub></p>
     </td>
-    <!-- CARPETA 6 -->
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="./interaccion_humano_robot" style="text-decoration: none;">
-        <blockquote style="margin: 0; padding: 20px; border-left: 5px solid #00BCD4; background-color: #f9f9f9; border-radius: 10px;">
-          <h3 style="margin-top: 0; color: #333;">💬👋 INTERACCIÓN HUMANO-ROBOT</h3>
-          <p style="color: #666; margin-bottom: 10px;">Interfaz de usuario UI/UX, voz y diálogo.</p>
-          <code style="color: #00BCD4;">📂 Ir a la carpeta &rarr;</code>
-        </blockquote>
+    <td width="50%" align="center">
+      <a href="./interaccion_humano_robot">
+        <img src="https://img.shields.io/badge/💬👋_INTERACCIÓN_HUMANO_ROBOT-Interfaz_y_Voz-00BCD4?style=for-the-badge&logoColor=white" width="100%">
       </a>
+      <p><sub>Interfaz de usuario UI/UX, reconocimiento de voz y diálogo.</sub></p>
     </td>
   </tr>
 </table>
-
-<br>
 
 ---
 
