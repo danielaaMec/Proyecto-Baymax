@@ -1,0 +1,79 @@
+# CampusCare — Logística y Triage Autónomo para Campus Universitarios
+
+[![Estado](https://img.shields.io/badge/status-prototipo-orange.svg)]() [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)]() [![Issues](https://img.shields.io/badge/issues-welcome-brightgreen.svg)]()
+
+Un sistema integrado para:
+- Transporte interno seguro y autónomo de muestras, medicamentos y suministros entre edificios y clínicas del campus.
+- Triage y evaluación primaria automatizada en enfermerías para acelerar la atención estudiantil.
+
+---
+
+## 🎯 TL;DR
+CampusCare automatiza dos flujos clave en campus universitarios:
+1. Logística segura de laboratorio/farmacia/suministros mediante rutas autónomas, trazabilidad y control de acceso.
+2. Triage básico en enfermerías con lectura de signos vitales (temperatura, TA, FC) y derivación inteligente a personal humano.
+
+---
+
+## 🧭 Características principales
+
+- Transporte autónomo
+  - Rutas optimizadas entre edificios
+  - Contenedores con control de temperatura y sellado electrónico
+  - Trazabilidad y firmas digitales en cada entrega
+  - Prioridad y rutas de emergencia
+
+- Triage y atención primaria
+  - Lectura automatizada de temperatura, presión arterial y frecuencia cardíaca
+  - Algoritmos de priorización (color/urgencia)
+  - Generación automática de ficha clínica básica y sugerencia de derivación
+  - Integración con sistemas clínicos (HL7/FHIR) y notificaciones a personal
+
+- Seguridad y cumplimiento
+  - Cifrado de datos en tránsito y reposo
+  - Control de acceso por roles (farmacia, laboratorio, enfermería, seguridad)
+  - Auditoría completa de eventos y accesos
+
+---
+
+## 🔍 Visualización dinámica (ideas para el main)
+
+- Dashboard de Estado (cards)
+  - Entregas en curso: 12 🚚
+  - Muestras críticas en tránsito: 2 ❗
+  - Pacientes en triage: 5 🩺
+  - Alarmas recientes: 1 🔔
+
+- Panel de mapa (campus)
+  - Rutas en vivo de unidades autónomas
+  - Hotspots (labs, farmacias, enfermerías)
+
+- Línea de tiempo por elemento
+  - Registro de cada muestra/medicación con timeline y pruebas de temperatura
+
+- Vista de triage (lista rápida)
+  - Tarjetas con: nombre, edad, signos, prioridad (verde/amarillo/rojo), acción sugerida
+
+---
+
+## 🧩 Flujo resumido (2 casos de uso)
+
+1) Transporte de muestra crítica
+- Farmacia/Lab solicita recogida → Sistema asigna unidad autónoma → Pickup con escaneo y sello electrónico → Transporte con control de temperatura → Entrega con firma y registro en EHR.
+
+2) Triage en enfermería
+- Estudiante llega → Estación automática mide temperatura + TA + FC → Sistema calcula riesgo → Si alto, notifica personal y crea ficha; si bajo/normal, entrega recomendaciones y registro.
+
+---
+
+## 📊 Diagramas (Mermaid)
+- Flujo de transporte
+```mermaid
+flowchart TD
+  A[Solicitud de recogida] --> B[Asignación automática]
+  B --> C[Unidad autónoma recoge]
+  C --> D{Control de temperatura OK?}
+  D -- Sí --> E[Transporte]
+  D -- No --> F[Alerta: devolver o refrigerar]
+  E --> G[Entrega con firma]
+  G --> H[Registro en sistema / EHR]
