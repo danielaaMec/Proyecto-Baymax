@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="./aplicaciones_asistenciales">
+      <a href="./funciones">
         <img src="https://img.shields.io/badge/🏥💊_APLICACIONES_ASISTENCIALES-Funciones_Clínicas-E91E63?style=for-the-badge&logoColor=white" width="100%">
       </a>
       <p><sub>Funciones clínicas, monitoreo de paciente y tareas médicas.</sub></p>
