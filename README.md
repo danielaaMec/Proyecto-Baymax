@@ -55,7 +55,7 @@
       <p><sub>Funciones clínicas, monitoreo de paciente y tareas médicas.</sub></p>
     </td>
     <td width="50%" align="center">
-      <a href="./interaccion_humano_robot">
+      <a href="./Interacción">
         <img src="https://img.shields.io/badge/💬👋_INTERACCIÓN_HUMANO_ROBOT-Interfaz_y_Voz-00BCD4?style=for-the-badge&logoColor=white" width="100%">
       </a>
       <p><sub>Interfaz de usuario UI/UX, reconocimiento de voz y diálogo.</sub></p>
