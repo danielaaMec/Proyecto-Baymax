@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="./electronica_y_hardware">
+      <a href="./Sensores">
         <img src="https://img.shields.io/badge/💡⚡_ELECTRÓNICA_Y_HARDWARE-Circuitos_y_Sensores-FFB300?style=for-the-badge&logoColor=white" width="100%">
       </a>
       <p><sub>Esquemas de circuitos, tarjetas, sensores y actuadores.</sub></p>
