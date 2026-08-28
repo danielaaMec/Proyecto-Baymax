@@ -41,7 +41,7 @@
       <p><sub>Esquemas de circuitos, tarjetas, sensores y actuadores.</sub></p>
     </td>
     <td width="50%" align="center">
-      <a href="./movilidad_y_locomocion">
+      <a href="./Navegación">
         <img src="https://img.shields.io/badge/🏃‍♂️⚙️_MOVILIDAD_Y_LOCOMOCIÓN-Navegación_y_Motores-9C27B0?style=for-the-badge&logoColor=white" width="100%">
       </a>
       <p><sub>Base mecánica, control de motores y navegación autónoma.</sub></p>
