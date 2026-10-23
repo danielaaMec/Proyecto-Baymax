@@ -13,6 +13,10 @@
 ## 🗂️ MÓDULOS Y DOCUMENTACIÓN ⚙️
 </div>
 Este es un pequeño proyecto, que se realiza con la ayuda y el seguimiento del Semillero Tesla, que pertenece a la Universidad Militar Nueva Granada de la facultad de ingeniería Mecatrónica.
+</p>
+
+---
+
 <br>
 
 <table align="center" width="100%">
